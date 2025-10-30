@@ -1,0 +1,16 @@
+# LLM and API Clients
+together>=1.0.0
+transformers>=4.35.0
+torch>=2.0.0
+accelerate>=0.25.0
+sentencepiece>=0.2.0
+
+# Dataset
+datasets>=2.14.0
+
+# Code execution
+RestrictedPython>=7.0
+
+# Utilities
+python-dotenv>=1.0.0
+tqdm>=4.66.0
