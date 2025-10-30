@@ -51,6 +51,8 @@ First, install dependencies:
 pip install -r requirements.txt
 ```
 
+Note: This project uses the HumanEvalFix dataset from the `datasets` library. You don't need to clone the bigcode-evaluation-harness repository.
+
 Create a .env file with your Together API key:
 
 ```
